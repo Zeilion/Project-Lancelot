@@ -1,0 +1,6 @@
+(1, 15), 'indice3 = rouge'
+(7, 1), "indice1 = papillon"
+(11, 7), "indice4 = 40"
+(11, 17), 'Luc est le frère de Paul'
+(23, 5), "indice2 = 2"
+(25, 1), 'Lise est la fille de Luc'

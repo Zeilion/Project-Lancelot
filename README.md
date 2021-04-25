@@ -16,5 +16,4 @@ posted in front of the doors inside the castle.
 Merlin told his disciple that if he proceeds intelligently, his quest will be satisfied."
 
 
-Run MP-Project_Lancelot-ultra_basic.py
-Play with your keyboard arrows
+Run MP-Project_Lancelot-ultra_basic.py and play with your keyboard arrows
